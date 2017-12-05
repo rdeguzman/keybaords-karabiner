@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<root>
+  <item>
+    <name>Map F5 to tilde</name>
+    <identifier>F5 to tilde</identifier>
+    <autogen>__KeyToKey__ KeyCode::F5, KeyCode::BACKQUOTE, ModifierFlag::SHIFT_L</autogen>
+  </item>
+</root>
